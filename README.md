@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mralamplan, a data-driven materials engineer and an aspiring Python developper.
+- 👋 Hi, I’m @mralamplan, a data-driven materials engineer and a Python dependent problem solver.
 - 👀 I’m interested in programming and automating with Python, and image processing for engineering application.
 - 🌱 I’m currently learning, well Python for one, and I'm expanding my expertise into sensors, IoT and related embedded technologies.
 - 💞️ I’m looking to collaborate on developing tools for Data analysis and Image Processing.
